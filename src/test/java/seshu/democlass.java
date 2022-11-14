@@ -1,4 +1,4 @@
-package seenu;
+package seshu;
 
 public class democlass {
 
